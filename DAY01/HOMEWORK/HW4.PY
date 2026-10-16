@@ -1,0 +1,1 @@
+1)4)გაიაზრეთ რა არის Back-end,Front-end და API
