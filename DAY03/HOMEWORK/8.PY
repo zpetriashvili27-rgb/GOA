@@ -1,0 +1,1 @@
+print("me+var zura+petriashvili+da vswavlob+goa-shi")

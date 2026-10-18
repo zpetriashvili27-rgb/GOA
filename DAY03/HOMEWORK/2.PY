@@ -1,0 +1,1 @@
+print("me var" + "zura" + "da var" + "10 wlis")

@@ -1,0 +1,1 @@
+print("me+var+megobrebtan+da+ezoshi+chavdivar+mere saxlshi avdivar")
