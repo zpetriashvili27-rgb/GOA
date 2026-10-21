@@ -1,1 +1,1 @@
-print("me+davdivar+goa-shi")
+print("me+davdivar+goashi")

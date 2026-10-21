@@ -1,1 +1,1 @@
-print("me+var zura+petriashvili+da vswavlob+goa-shi")
+print("me+ var+ zura+10+wlis")

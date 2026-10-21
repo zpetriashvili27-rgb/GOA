@@ -1,1 +1,1 @@
-print("me+davdivar+goashi+Zalian momwons")
+print("zura+daviti+teo+nuca")

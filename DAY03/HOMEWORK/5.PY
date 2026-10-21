@@ -1,1 +1,1 @@
-print("me+var+megobrebtan+da+ezoshi+chavdivar+mere saxlshi avdivar")
+print("me+vezaxi+megobrebs+rom+chavidet+ezoshi+goakaia")
