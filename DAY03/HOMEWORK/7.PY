@@ -1,1 +1,1 @@
-print("zura+daviti+teo+nuca")
+print("zura"+"daviti"+"teo"+"nuca")

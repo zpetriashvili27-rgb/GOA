@@ -1,1 +1,1 @@
-print("me+davdivar+goashi")
+print("me"+"davdivar"+"goashi")

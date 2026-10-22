@@ -1,1 +1,1 @@
-print("me+ var+ zura+10+wlis")
+print("me"+ "var"+ "zura"+"10"+"wlis")

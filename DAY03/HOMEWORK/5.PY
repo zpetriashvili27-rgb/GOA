@@ -1,1 +1,1 @@
-print("me+vezaxi+megobrebs+rom+chavidet+ezoshi+goakaia")
+print("me"+"vezaxi"+"megobrebs"+"rom"+"chavidet"+"ezoshi"+"goakaia")
