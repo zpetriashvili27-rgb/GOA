@@ -1,0 +1,1 @@
+print("gamarjoba me var" + "zura petriashvili")

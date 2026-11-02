@@ -1,0 +1,15 @@
+test11 = 1311341214 #integer
+test12 = 15.1 #float
+test13 = "abv"#string
+test14= 14.3 #float
+test15 = 13 #integer
+test16 = 1.2 #float
+test17 = "1.2"#string
+test18 = 1.24 #float
+test19 = 2 #integer
+test20 = "ioane" #string
+test21 = 3 #integer
+test22 = 4.3 #float
+test23 = "13" #string
+test24 = 1 #integer
+test25 = 4 #integer

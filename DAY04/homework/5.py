@@ -1,0 +1,1 @@
+#jer vwerT cvladis saxels mere davwerT = da iq chavwert raimes sityvas magalitad name = "zura" da mere mak kods gavushvebT print("ME VAR"+NAME)DA RO GAVUSHVEBt GAMOVA ME {VARZURA}
